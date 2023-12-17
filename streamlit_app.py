@@ -1,3 +1,3 @@
 import streamlit
 
-streanlit.title('My Parents New Healthy Diner');
+streanlit.title('My Parents New Healthy Diner')
